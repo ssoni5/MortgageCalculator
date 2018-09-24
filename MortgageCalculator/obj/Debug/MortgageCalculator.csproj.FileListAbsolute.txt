@@ -1,0 +1,14 @@
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\Proj1-Soni\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\Proj1-Soni\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\Proj1-Soni\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\Proj1-Soni\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\Proj1-Soni\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\Proj1-Soni\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\SHAMOIL\Documents\IT-330\Assg1\Proj1-Soni\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
